@@ -13,3 +13,4 @@ Photos that I used in this program are from:<br/>
 -https://stories.forbestravelguide.com/your-essential-boston-guide<br/>
 -https://www.istockphoto.com/photos/rainy-boston-skyline<br/>
 -https://www.irasutoya.com/2014/08/blog-post_181.html<br/>
+All rights reserved to the owener.
