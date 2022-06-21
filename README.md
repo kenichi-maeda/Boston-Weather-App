@@ -1,7 +1,7 @@
 # Boston-Weather-App
 ### Weather App using Python
 
-Implement a python app that displays the current weather in Boston using tkinter. I utilized the OpenWatherMap API to get weather information (such as wind, humidity, detailed description, and pressure), and used the requests library to retrieve the API.
+Implemented a python app that displays the current weather in Boston using tkinter. Utilized the OpenWatherMap API to get weather information (such as wind, humidity, detailed description, and pressure), and used the requests library to retrieve the API.
 
 You can run this program by putting your key in {key} in the code.<br/>
 ```api_data = "https://api.openweathermap.org/data/2.5/weather?q=boston&appid={key}"```
